@@ -1,0 +1,17 @@
+{
+  "name": "under-belt-horizontal-menu-tabs-fixed",
+  "version": "1.0.0",
+  "description": "This is a new standalone site based on the provided Under belt Project Brief and the requested account, checkout, orders, returns, product-detail and journal features.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^7.3.7"
+  }
+}
